@@ -1,0 +1,16 @@
+{
+  "name": "series",
+  "version": "0.0.1",
+  "description": "A series generator generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "Joe Woods <code@joewoods.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  },
+  "type": "module"
+}
